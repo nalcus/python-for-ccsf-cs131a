@@ -7,9 +7,16 @@
 
 import sys
 
+# create a sorted set from the command line arguments collection
 setarg=sorted(set(sys.argv))
-freqarg=[sys.argv.count(freq) for freq in setarg]
+
+# count the number of times each argument in setarg appears in the
+# command line collection and put those counts in a new set
+freqarg=[sys.argv.count(arg) for arg in setarg]
+
+# print the sorted set of arguments along with the frequency
+print ("Here is an alphabetical list of the command line arguments submitted along \nwith the frequency they occur:")
 index=0
 while index < len(setarg):
-    print(setarg[index]+":"+str(freqarg[index]))
+    print("%s:%i" % (setarg[index],freqarg[index]))
     index +=1
