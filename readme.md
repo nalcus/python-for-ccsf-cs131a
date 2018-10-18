@@ -1,6 +1,7 @@
 # Python Classwork
 
 ### by Nicholas Alcus
+#### nalcus@gmail.com
 
 This is a collection of classwork for CS131A at [City College of San Francisco](http://www.ccsf.edu/). The class is running from 2018-08-20 to 2018-12-20. As of this writing, I have yet to finish the class. _NOTE: Some of these may have been modified since they were originally turned in._
 
@@ -22,9 +23,9 @@ Here is a list of the assignments as originally given in the class syllabus. The
 
 8. **Functions** - Write a program that reports the number, mean, median, mode, and midpoint of numeric command line arguments, using functions that determine these statistics. Due 10/14.
 
-_Note: The following assignments have not yet been assigned:_
+9. **Exceptions** - Extend the last program so that non-numeric arguments are regarded as integers with value equivalent to their length in characters. Due 10/21.
 
-9. **Exceptions**
+_Note: The following assignments have not yet been assigned:_
 
 10. **Object Orientation**
 
