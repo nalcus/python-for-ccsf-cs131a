@@ -25,11 +25,11 @@ Here is a list of the assignments as originally given in the class syllabus. The
 
 9. **Exceptions** - Extend the last program so that non-numeric arguments are regarded as integers with value equivalent to their length in characters. Due 10/21.
 
+10. **Object Orientation** - Define a class, objects of which can make the same function calls as the last program. It should have a useful string representation and the command line invocation should still work. Due 10/28.
+
+11. **Files** - Write a program that displays a word six letters long randomly chosen from the dictionary /users/abrick/resources/english. Due 11/4. _NOTE: "Dictionary file" not provided, but any text file will do to test the program's functionality.
+
 _Note: The following assignments have not yet been assigned:_
-
-10. **Object Orientation**
-
-11. **Files**
 
 12. **Regular expressions I**
 
